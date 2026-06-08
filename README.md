@@ -20,7 +20,7 @@ The core questions are:
 - Which assets should management investigate first?
 - Which data quality issues affect reporting confidence?
 
-## Why This Is Not a Student Dashboard
+## What This Project Demonstrates
 
 This project is structured as a business reporting workflow rather than a one-off visualization exercise.
 
