@@ -1,0 +1,23 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Power BI local cache/settings
+powerbi/
+*.pbix
+*.pbip
+**/.pbi/
+*.bak
+*.bak*
+**/pages.json.bak*
+powerbi/test.Report/definition/pages/pg01ZZBuilderTest/
+
+# Raw or confidential source files
+data/raw/
+*.xlsx
+*.xls
+
+# Local logs
+*.log
